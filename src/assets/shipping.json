@@ -1,14 +1,14 @@
 [
   {
-    "type": "Overnight",
+    "type": "Sedex",
     "price": 25.99
   },
   {
-    "type": "2-Day",
+    "type": "Azul",
     "price": 9.99
   },
   {
-    "type": "Postal",
+    "type": "Correios",
     "price": 2.99
   }
 ]
